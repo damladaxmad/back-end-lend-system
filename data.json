@@ -1,0 +1,48 @@
+[
+    {
+        "id": "c1",
+        "name": "Damlad Axmad",
+        "number": "0616549198",
+        "lends": [
+            {
+                "desc": "car",
+                "date": "2022/1/18",
+                "money": 4000
+            },
+            {
+                "desc": "laptop",
+                "date": "2022/1/17",
+                "money": 500
+            }
+        ]
+    },
+    {
+        "id": "c2",
+        "name": "Jaamac Cali",
+        "number": "0615677889",
+        "lends": [
+            {
+                "desc": "motor cycle",
+                "date": "2022/1/8",
+                "money": 2000
+            },
+            {
+                "desc": "mobile",
+                "date": "2022/1/9",
+                "money": 100
+            }
+        ]
+    },
+    {
+        "id": "c3",
+        "name": "cali ahmed",
+        "number": "061654678",
+        "lends": [
+            {
+                "desc": "qalin",
+                "money": 4,
+                "date": "2022/1/5"
+            }
+        ]
+    }
+]
